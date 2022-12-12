@@ -39,18 +39,50 @@ I wanted to explore the David Rumsey's Map Collection and found [this](https://w
 I work with OSM data on regular basis, be it work, school, or personal projects. The maps I love the most with OSM are these kind of minimalist road networks. I downloaded all the cities from https://download.geofabrik.de/, 100% recommend. Layouts were made in ArcGIS Pro.
 
 ![](maps/08_osm.png) 
-
 ## Day 9: Space
-Space = Star Wars! This one was created with Natural Earth world countries (be careful to select the worldview with Ukraine mapped correctly, such as the US). Filming locations can be found on the wiki: https://en.wikipedia.org/wiki/List_of_Star_Wars_filming_locations. Also, I used this [Star Jedi](https://fontmeme.com/fonts/star-jedi-font/) font for the title, cool stuff.
+Space = Star Wars! This one was created with Natural Earth world countries (be careful to select the worldview with Ukraine mapped correctly, such as the US) in QGIS using some blending options between the layers and background. Filming locations can be found on the wiki: https://en.wikipedia.org/wiki/List_of_Star_Wars_filming_locations. Background space image is from Francesco Ungaro: https://www.pexels.com/photo/starry-sky-998641/. Also, I used this [Star Jedi](https://fontmeme.com/fonts/star-jedi-font/) font for the title, cool stuff.
 
 ![](maps/09_space.png)
-
 ## Day 10: A bad map
-No words needed.
+No description needed.
 
 ![](maps/10_bad_map.png)
-
 ## Day 11: Red
 Once again I used the [Sentinel Hub](https://www.sentinel-hub.com/) and looked for beautiful rivers in Alaska in NIR. The contrast of snow-covered and regular Nushagak River surroundings is quite a look.
 
 ![](maps/11_red_snow.png) ![](maps/11_red.png)
+## Day 12: Scale
+Have you ever seen how Greeland actually looks compared to Africa? I bet you did, but how about Canada and South America? I was as surprised as you might be! This map was created in ArcGIS Pro, using Natural Earth data and local projections from https://epsg.io/.
+
+![](maps/12_scale.png)
+## Day 13: 5 minute map
+Created with the default Toner style from MapTiler Cloud. 
+
+![](maps/13_5min.png)
+## Day 14: Hexagons & Day 15: Food/drink
+By this day, I started to feel the time pressure as I haven't prepared any of the maps in advance. Hence, I combined these two days together and created hexagons/drink map with cafés in Prague. The cafés are from OSM, downloaded with [QuickOSM plugin](https://plugins.qgis.org/plugins/QuickOSM/).
+
+![](maps/14_15_hexagons_food_drink.png)
+## Day 16: Minimal
+OSM rivers in Czech Republic styled by their hierarchy.
+
+![](maps/16_minimal.png)
+
+## Day 17: Map without a computer
+For this one, I went to visit my geoinformatics department at uni and borrowed a military map which is typically used for the first class assignment for first-year students. Back then, I wanted to burn the map so badly. Now I must admit I really enjoyed the drawing of contours!
+
+![](maps/17a_without_computer.png) ![](maps/17b_without_computer.png)
+## Day 18: Blue
+This day I really wanted to show the awesome colors on the MapTiler satellite. Many differents shades of blue in the ocean near Bahamas.
+
+![](maps/18_blue.png)
+
+## Day 19: Globe
+My first time trying the [Globe Builder](https://plugins.qgis.org/plugins/GlobeBuilder/) plugin in QGIS (why haven't I tried it earlier?!). And since the default Sentinel imagery doesn't look so good for the world view, I used the MapTiler Satellite map as a replacement. Also, recently I saw some posts about the longest route one can walk by foot accross the world and this was the right opportunity to map it.
+
+![](maps/19_globe.png)
+
+## Day 20: My favourite...
+...city is London. I used the #prettymap project for this visualization. Available either on GitHub: https://github.com/chrieke/prettymapp or through [Streamlit](https://mikael-codes-prettymapp-streamlit-prettymappapp-ccs1so.streamlit.app/).
+
+![](maps/20_favourite.png)
