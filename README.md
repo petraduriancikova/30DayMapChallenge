@@ -10,4 +10,4 @@ I used this expression for the circle radius in the JSON code:
       ["/", ["get", "POP_MAX"], 100000]
     ]
 ```
-<img src="maps/1_points.png" width="480">
+<img src="maps/01_points.png" width="480">
