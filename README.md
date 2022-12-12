@@ -12,7 +12,7 @@ I used this expression for the circle radius in the JSON code:
 ```
 ![](maps/01_points.png)
 ## Day 2: Lines
-When thinking of lines, the biking routes in Brno, Czechia (where I partly live now) came to my mind immediately. You can find the open data for the "Bike to work" event [here](https://data.brno.cz/datasets/mestobrno::dopravn%C3%AD-intenzity-cyklist%C5%AF-do-pr%C3%A1ce-na-kole-traffic-intensity-of-cyclists-of-bike-to-work-event/explore?location=49.164481%2C16.640643%2C9.62) in a variety of formats. The Carto Dark Matter basemap was pulled to QGIS by the [MapTiler plugin] (https://plugins.qgis.org/plugins/qgis-maptiler-plugin/).
+When thinking of lines, the biking routes in Brno, Czechia (where I partly live now) came to my mind immediately. You can find the open data for the "Bike to work" event [here](https://data.brno.cz/datasets/mestobrno::dopravn%C3%AD-intenzity-cyklist%C5%AF-do-pr%C3%A1ce-na-kole-traffic-intensity-of-cyclists-of-bike-to-work-event/explore?location=49.164481%2C16.640643%2C9.62) in a variety of formats. There even more awesome datasets at https://datahub.brno.cz/. The Carto Dark Matter basemap was pulled to QGIS by the [MapTiler plugin](https://plugins.qgis.org/plugins/qgis-maptiler-plugin/).
 
 ![](maps/02_lines.png)
 ## Day 3: Polygons
@@ -23,3 +23,7 @@ This submission was inspired by the landing map on the [MapLibre project](https:
 I decided to do all color Fridays with remote sensing data as it used to be my favourite subject at uni. The green one is the confluence of the Alaskan rivers Susitna and Yentna. Processed with [Sentinel Hub](https://www.sentinel-hub.com/) in SWIR, where the green stands out nicely.
 
 ![](maps/04_green.png)
+## Day 5: Ukraine
+For this submission I didn't have enough time so I created a yellow-blue variant of the Toner style in MapTiler Cloud, then cut it in the Inkscape by the dove shape from Freepik.
+
+![](maps/05_ukraine.png)
