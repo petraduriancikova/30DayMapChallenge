@@ -103,7 +103,22 @@ This one was straightforward, from day 1 I knew I will be doing a Harry Potter t
 
 ![](maps/24_fantasy.png)
 ## Day 25: 2 colors
-Day 25: 2 colors
-Again, I wanted to do some minimalistic road network from OSM, so here we go. Once you have the layout ready and data ready, you can do basically any combination of roads in cities with various colors. The roads are styled based on their hiearchy, I just played with the width (from 1 to 0.5 pt).
+Again, I wanted to do some minimalistic road network from OSM, so here we go. Once you have the layout and data ready, you can do basically any combination of city roads with various colors. The roads are styled based on their hiearchy, I just played with the width (from 1 to 0.5 pt).
 
 ![](maps/25_2colors.png)
+## Day 26: Island(s)
+What other island to map on this day than Iceland? I kind of started to enjoy the minimalistic map design even more, so went with it once again. The hillshade is from Living Atlas and the style is a modified John Nelson's [Imhof inspired style](https://esri-styles.maps.arcgis.com/home/item.html?id=1f25b31793cd4e7391b0cd51b9b79783).
+
+![](maps/26_island.png)
+## Day 27: Music
+As I didn't come up with any music idea I could turn into a map, I went with the noise levels. Data are again from https://datahub.brno.cz/, you can find exactly this dataset [here](https://data.brno.cz/datasets/mestobrno::%C3%BArove%C5%88-hluku-noise-levels/about). Map was created in ArcGIS Pro with John Nelson's [Firefly style](https://esri-styles.maps.arcgis.com/home/item.html?id=93a6d9ea3b54478193ba566ab9d8b748).
+
+![](maps/27_music.png)
+## Day 28: 3D & Day 29: Out of my comfort zone
+First experience with Aerialod! If you are looking for an easy, stunning 3D viz, I 100% recommend. If you are still hesitating, there are many great tutorials on how to get started on YouTube or this one from Alasdair Rae: https://www.udemy.com/course/aerialod/.
+
+![](maps/28_29_3D_out_of_comfort.png)
+## Day 30: Remix
+Wow, so I finally made it! This map is a remix of day 25, I just changed the city and colors. 
+
+![](maps/30_remix.png)
