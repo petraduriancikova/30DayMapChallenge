@@ -16,7 +16,7 @@ When thinking of lines, the biking routes in Brno, Czechia (where I partly live 
 
 ![](maps/02_lines.png)
 ## Day 3: Polygons
-This submission was inspired by the landing map on the [MapLibre project](https://maplibre.org/), I just tweaked the colours. The code for the color styling is available here: https://github.com/maplibre/demotiles/blob/gh-pages/style.json.
+This submission was inspired by the map on the landing page of [MapLibre project](https://maplibre.org/), I just tweaked the colours. The code for the color styling is available here: https://github.com/maplibre/demotiles/blob/gh-pages/style.json.
 
 ![](maps/03_polygons.png)
 ## Day 4: Green
