@@ -103,7 +103,7 @@ This one was straightforward, from day 1 I knew I will be doing a Harry Potter t
 
 ![](maps/24_fantasy.png)
 ## Day 25: 2 colors
-Again, I wanted to do some minimalistic road network from OSM, so here we go. Once you have the layout and data ready, you can do basically any combination of city roads with various colors. The roads are styled based on their hiearchy, I just played with the width (from 1 to 0.5 pt).
+Again, I wanted to do some minimalistic road network from OSM, so here we go. Once you have the layout and data ready, you can do basically any combination of city roads with various colors. The roads are styled based on their hiearchy, I just played with the width (from 1 to 0.5 pt). Also, if you are wondering how to create a circular inset easily in QGIS, here is a great tutorial by North Road: https://north-road.com/2022/11/04/creating-circular-insets-and-other-fun-qgis-layout-tricks/.
 
 ![](maps/25_2colors.png)
 ## Day 26: Island(s)
