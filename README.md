@@ -102,7 +102,7 @@ I have to admit I cheated a bit because I pulled my old animation of lake Milh, 
 This one was straightforward, from day 1 I knew I will be doing a Harry Potter themed map with the locations of wizarding schools. Unfortunately, time was not on my side so I didn't get to play with the styling much. John Nelson's styles for ArcGIS Pro helped me really a lot! For the labels I used this Harry P font: https://www.fontspace.com/harry-p-font-f44342.
 
 ![](maps/24_fantasy.png)
-
+## Day 25: 2 colors
 Day 25: 2 colors
 Again, I wanted to do some minimalistic road network from OSM, so here we go. Once you have the layout ready and data ready, you can do basically any combination of roads in cities with various colors. The roads are styled based on their hiearchy, I just played with the width (from 1 to 0.5 pt).
 
