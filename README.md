@@ -86,3 +86,24 @@ My first time trying the [Globe Builder](https://plugins.qgis.org/plugins/GlobeB
 ...city is London. I used the #prettymap project for this visualization. Available either on GitHub: https://github.com/chrieke/prettymapp or through [Streamlit](https://mikael-codes-prettymapp-streamlit-prettymappapp-ccs1so.streamlit.app/).
 
 ![](maps/20_favourite.png)
+## Day 21: Kontur population dataset
+This map was made completely in ArcGIS Pro, the hillshade is added as a WMTS. It helped me a lot that you can download Kontur population data by country here: https://data.humdata.org/organization/kontur instead of downloading the whole world. The color palette that I slightly adjusted is from Kenneth Field and can be found [here](https://esri-styles.maps.arcgis.com/home/item.html?id=ff2595989f164776ac6d3794948b9379) (thanks to John Nelson for being the messenger).
+
+![](maps/21_kontur.png)
+## Day 22: NULL
+For the NULL day, I was inspired by the awesome map from Andrew Douglas-Clifford: https://www.andrewdc.co.nz/project/murky-waters-unmapped-areas-of-seafloor/. However, I really had a hard time downloading the data from official GEBCO site. In the end, I found it on the Living Atlas, which was a safe. Ocean style comes from MapTiler.
+
+![](maps/22_null.png)
+## Day 23: Movement
+I have to admit I cheated a bit because I pulled my old animation of lake Milh, Iraq from a remote sensing class at uni. Done with Google Earth Engine.
+
+![](maps/23_movement.gif)
+## Day 24: Fantasy
+This one was straightforward, from day 1 I knew I will be doing a Harry Potter themed map with the locations of wizarding schools. Unfortunately, time was not on my side so I didn't get to play with the styling much. John Nelson's styles for ArcGIS Pro helped me really a lot! For the labels I used this Harry P font: https://www.fontspace.com/harry-p-font-f44342.
+
+![](maps/24_fantasy.png)
+
+Day 25: 2 colors
+Again, I wanted to do some minimalistic road network from OSM, so here we go. Once you have the layout ready and data ready, you can do basically any combination of roads in cities with various colors. The roads are styled based on their hiearchy, I just played with the width (from 1 to 0.5 pt).
+
+![](maps/25_2colors.png)
