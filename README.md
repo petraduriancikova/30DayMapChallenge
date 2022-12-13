@@ -115,7 +115,7 @@ As I didn't come up with any music idea I could turn into a map, I went with the
 
 ![](maps/27_music.png)
 ## Day 28: 3D & Day 29: Out of my comfort zone
-First experience with Aerialod! If you are looking for an easy, stunning 3D viz, I 100% recommend. If you are still hesitating, there are many great tutorials on how to get started on YouTube or this one from Alasdair Rae: https://www.udemy.com/course/aerialod/.
+First experience with Aerialod! If you are looking for an easy, stunning 3D viz, I 100% recommend. If you are still hesitating, there are many great tutorials on how to get started on YouTube or this one from Alasdair Rae: https://www.udemy.com/course/aerialod/. The DEM is from [Land Information New Zealand](https://data.linz.govt.nz/), you can find a lot of awesome data in there and what's more, they are regularly updating and improving them.
 
 ![](maps/28_29_3D_out_of_comfort.png)
 ## Day 30: Remix
