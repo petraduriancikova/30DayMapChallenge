@@ -1,7 +1,7 @@
 # 30DayMapChallenge
 All of my maps for #30DayMapChallenge 2022. Kudos to Topi Tjukanov for running this awesome mappy event. See more info here: https://github.com/tjukanovt/30DayMapChallenge.
 ## Day 1: Points
-My very first submission to the #30DayMapChallenge ever. This one was done using the Advanced Editor in MapTiler Cloud. Data on the cities population come from [Natural Earth](https://www.naturalearthdata.com/) and were tiled with MapTiler Desktop. You can also upload a GeoJSON directly withou tiling it.
+My very first submission to the #30DayMapChallenge ever. This one was done using the Advanced Editor in [MapTiler Cloud](https://www.maptiler.com/cloud/). Data on the cities population come from [Natural Earth](https://www.naturalearthdata.com/) and were tiled with MapTiler Desktop. You can also upload a GeoJSON directly withou tiling it.
 I used this expression for the circle radius in the JSON code:
 ```
 "circle-radius": 
@@ -12,7 +12,7 @@ I used this expression for the circle radius in the JSON code:
 ```
 ![](maps/01_points.png)
 ## Day 2: Lines
-When thinking of lines, the biking routes in Brno, Czechia (where I partly live now) came to my mind immediately. You can find the open data for the "Bike to work" event [here](https://data.brno.cz/datasets/mestobrno::dopravn%C3%AD-intenzity-cyklist%C5%AF-do-pr%C3%A1ce-na-kole-traffic-intensity-of-cyclists-of-bike-to-work-event/explore?location=49.164481%2C16.640643%2C9.62) in a variety of formats. There are even more awesome datasets at https://datahub.brno.cz/. The Carto Dark Matter basemap was pulled to QGIS by the [MapTiler plugin](https://plugins.qgis.org/plugins/qgis-maptiler-plugin/).
+When thinking of lines, the biking routes in Brno, Czechia (where I partly live now) came to my mind immediately. You can find the open data for the "Bike to work" event [here](https://data.brno.cz/datasets/mestobrno::dopravn%C3%AD-intenzity-cyklist%C5%AF-do-pr%C3%A1ce-na-kole-traffic-intensity-of-cyclists-of-bike-to-work-event/explore?location=49.164481%2C16.640643%2C9.62) in a variety of formats. There are even more awesome datasets at https://datahub.brno.cz/. The Carto inspired Dark Matter basemap was pulled to QGIS by the [MapTiler plugin](https://plugins.qgis.org/plugins/qgis-maptiler-plugin/).
 
 ![](maps/02_lines.png)
 ## Day 3: Polygons
@@ -24,7 +24,7 @@ I decided to do all color Fridays with remote sensing data as it used to be my f
 
 ![](maps/04_green.png)
 ## Day 5: Ukraine
-For this submission I didn't have enough time so I created a yellow-blue variant of the Toner style in MapTiler Cloud, then cut it in the Inkscape by the dove shape from Freepik.
+For this submission I didn't have enough time so I created a yellow-blue variant of the Toner style in [MapTiler Cloud](https://www.maptiler.com/cloud/), then cut it in the Inkscape by the dove shape from Freepik.
 
 ![](maps/05_ukraine.png)
 ## Day 6: Network
@@ -36,7 +36,7 @@ I wanted to explore the David Rumsey's Map Collection and found [this](https://w
 
 ![](maps/07_raster.png) 
 ## Day 8: OpenStreetMap
-I work with OSM data on regular basis, be it work, school, or personal projects. The maps I love the most with OSM are these kind of minimalist road networks. I downloaded all the cities from https://download.geofabrik.de/, 100% recommend. Layouts were made in ArcGIS Pro.
+I work with OSM data on regular basis, be it work, school, or personal projects. The maps I love the most with OSM are these kind of minimalist road networks. I downloaded all the cities from https://download.geofabrik.de/, they are available as extracts so you don't have to download the whole country. Layouts were made in ArcGIS Pro.
 
 ![](maps/08_osm.png) 
 ## Day 9: Space
@@ -56,11 +56,11 @@ Have you ever seen how Greeland actually looks compared to Africa? I bet you did
 
 ![](maps/12_scale.png)
 ## Day 13: 5 minute map
-Created with the default Toner style from MapTiler Cloud. 
+Created with the default Toner style from [MapTiler Cloud](https://www.maptiler.com/cloud/). 
 
 ![](maps/13_5min.png)
 ## Day 14: Hexagons & Day 15: Food/drink
-By this day, I started to feel the time pressure as I haven't prepared any of the maps in advance. Hence, I combined these two days together and created hexagons/drink map with cafés in Prague. The cafés are from OSM, downloaded with [QuickOSM plugin](https://plugins.qgis.org/plugins/QuickOSM/).
+By this day, I started to feel the time pressure as I haven't prepared any of the maps in advance. Hence, I combined these two days together and created hexagons/drink map with cafés in Prague. The cafés are from OSM, downloaded with [QuickOSM plugin](https://plugins.qgis.org/plugins/QuickOSM/). The image of coffee cup 
 
 ![](maps/14_15_hexagons_food_drink.png)
 ## Day 16: Minimal
@@ -73,12 +73,12 @@ For this one, I went to visit my geoinformatics department at uni and borrowed a
 
 ![](maps/17a_without_computer.png) ![](maps/17b_without_computer.png)
 ## Day 18: Blue
-This day I really wanted to show the awesome colors on the MapTiler satellite. Many differents shades of blue in the ocean near Bahamas.
+This day I really wanted to show the awesome colors on the [MapTiler satellite](https://www.maptiler.com/maps/#style=hybrid&mode=2d&position=8.25/24.535/-77.497). Many differents shades of blue in the ocean near Bahamas.
 
 ![](maps/18_blue.png)
 
 ## Day 19: Globe
-My first time trying the [Globe Builder](https://plugins.qgis.org/plugins/GlobeBuilder/) plugin in QGIS (why haven't I tried it earlier?!). And since the default Sentinel imagery doesn't look so good for the world view, I used the MapTiler Satellite map as a replacement. Also, recently I saw some posts about the longest route one can walk by foot accross the world and this was the right opportunity to map it.
+My first time trying the [Globe Builder](https://plugins.qgis.org/plugins/GlobeBuilder/) plugin in QGIS (why haven't I tried it earlier?!). And since the default Sentinel imagery doesn't look so good for the world view, I used the MapTiler Satellite map as a replacement. Also, recently I saw some posts about the longest route one can walk by foot accross the world and this was the right opportunity to map it. I exported the GPX route from Google Maps to QGIS and styled it.
 
 ![](maps/19_globe.png)
 
@@ -87,11 +87,11 @@ My first time trying the [Globe Builder](https://plugins.qgis.org/plugins/GlobeB
 
 ![](maps/20_favourite.png)
 ## Day 21: Kontur population dataset
-This map was made completely in ArcGIS Pro, the hillshade is added as a WMTS. It helped me a lot that you can download Kontur population data by country here: https://data.humdata.org/organization/kontur instead of downloading the whole world. The color palette that I slightly adjusted is from Kenneth Field and can be found [here](https://esri-styles.maps.arcgis.com/home/item.html?id=ff2595989f164776ac6d3794948b9379) (thanks to John Nelson for being the messenger).
+This map was made completely in ArcGIS Pro, the MapTiler hillshade is added as a WMTS. It helped me a lot that you can download Kontur population data by country here: https://data.humdata.org/organization/kontur instead of downloading the whole world. The color palette that I slightly adjusted is from Kenneth Field and can be found [here](https://esri-styles.maps.arcgis.com/home/item.html?id=ff2595989f164776ac6d3794948b9379) (thanks to John Nelson for being the messenger).
 
 ![](maps/21_kontur.png)
 ## Day 22: NULL
-For the NULL day, I was inspired by the awesome map from Andrew Douglas-Clifford: https://www.andrewdc.co.nz/project/murky-waters-unmapped-areas-of-seafloor/. However, I really had a hard time downloading the data from official GEBCO site. In the end, I found it on the Living Atlas, which was a safe. Ocean style comes from MapTiler.
+For the NULL day, I was inspired by the awesome map from Andrew Douglas-Clifford: https://www.andrewdc.co.nz/project/murky-waters-unmapped-areas-of-seafloor/. However, I really had a hard time downloading the data from official GEBCO site. In the end, I found it on the Living Atlas, which was a safe. Ocean style as a WMTS comes from MapTiler: https://cloud.maptiler.com/maps/ocean/.
 
 ![](maps/22_null.png)
 ## Day 23: Movement
