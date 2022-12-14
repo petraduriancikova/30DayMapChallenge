@@ -60,7 +60,7 @@ Created with the default Toner style from [MapTiler Cloud](https://www.maptiler.
 
 ![](maps/13_5min.png)
 ## Day 14: Hexagons & Day 15: Food/drink
-By this day, I started to feel the time pressure as I haven't prepared any of the maps in advance. Hence, I combined these two days together and created hexagons/drink map with cafés in Prague. The cafés are from OSM, downloaded with [QuickOSM plugin](https://plugins.qgis.org/plugins/QuickOSM/). The image of coffee cup 
+By this day, I started to feel the time pressure as I haven't prepared any of the maps in advance. Hence, I combined these two days together and created hexagons/drink map with cafés in Prague. The cafés are from OSM, downloaded with [QuickOSM plugin](https://plugins.qgis.org/plugins/QuickOSM/).
 
 ![](maps/14_15_hexagons_food_drink.png)
 ## Day 16: Minimal
